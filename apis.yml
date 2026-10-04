@@ -39,7 +39,6 @@ apis:
   - name: Visual Crossing
     description: "Global historical and weather forecast data"
     humanURL: https://www.visualcrossing.com/weather-api
-    baseURL: https://www.visualcrossing.com/weather-api
     tags:
       - Weather
     properties:
